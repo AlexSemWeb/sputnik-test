@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Котик 1",
+    "price": 123456,
+    "currency": "RUB",
+    "imageUrl": "https://i.pinimg.com/736x/6c/e7/c5/6ce7c5408dd8734461e0566068f60e36.jpg",
+    "origin": "Россия"
+  },
+  {
+    "id": 2,
+    "title": "Котик 2",
+    "price": 56,
+    "currency": "USD",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAH7cS0wcfGWdFtc84zUpGKl8eqt-gWqB9Jw&s",
+    "origin": "США"
+  },
+  {
+    "id": 3,
+    "title": "Котик 3",
+    "price": 123456,
+    "currency": "EUR",
+    "imageUrl": "https://foni.papik.pro/uploads/posts/2024-10/foni-papik-pro-9p7y-p-kartinki-serii-kotik-na-prozrachnom-fone-1.png",
+    "origin": "Германия"
+  }
+]
